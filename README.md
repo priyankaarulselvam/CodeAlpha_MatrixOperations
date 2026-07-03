@@ -14,8 +14,4 @@ Think of matrix addition like tracking sales for *two branches of a shop*. If Ro
 
 ---
 
-## How to Run
 
-1. *Compile the code:*
-   ```bash
-   gcc CodeAlpha_MatrixOperations.c -o program
